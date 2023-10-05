@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1af48bd-7321-4a70-890a-36add0406579" name="Changes" comment="" />
+    <list default="true" id="c1af48bd-7321-4a70-890a-36add0406579" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/art-gallery/src/main/java/com/launchcode/artgallery/data/CollectionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/art-gallery/src/main/java/com/launchcode/artgallery/models/Artwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/art-gallery/src/main/resources/templates/collection/add-art-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/art-gallery/src/main/resources/templates/collection/delete-art-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/art-gallery/src/main/resources/templates/collection/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/art-gallery/src/main/resources/templates/fragments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/art-gallery/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art-gallery/src/main/java/com/launchcode/artgallery/controllers/CollectionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/art-gallery/src/main/java/com/launchcode/artgallery/controllers/CollectionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art-gallery/src/main/java/org/launchcode/artgallery/controllers/GalleryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/art-gallery/src/main/java/org/launchcode/artgallery/controllers/GalleryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art-gallery/src/main/resources/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/art-gallery/src/main/resources/static/css/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,8 +67,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2M8ZnKw5dspVXrLNa8OnDOPmMcn" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -102,6 +116,7 @@
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
     <configuration name="art-gallery [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -123,6 +138,7 @@
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
     <recent_temporary>
